@@ -13,3 +13,7 @@ One more line on master branch.
 ## Subheader
 
 Some text for the subheader.
+
+## Another subheader
+
+Some text for another subheader
